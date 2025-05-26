@@ -20,10 +20,17 @@ This analysis helps in understanding pricing strategies, travel patterns, and cu
 the key insights derived from your airline data analysis:
 
 Flights by Stopovers: Distribution of flights categorized by the number of stopovers, distinguishing direct and connecting flights.
+
 Expensive vs. Budget-Friendly Flights: Identified airlines with the most expensive and cheapest ticket pricing.
+
 Flight Price Variation by Source: Analyzed how ticket prices vary based on the departure city.
+
 Stopover Trends by Day and Month: Determined the specific days and months with the highest number of flight stopovers.
+
 Peak Take-Off Month: Discovered the month with the highest number of flight departures.
+
 Maximum Revenue Month: Identified the month generating the highest ticket revenue.
+
 Flight Availability by Source and Destination: Assessed flight availability between different departure and arrival cities.
+
 These insights provide a holistic understanding of travel patterns, pricing strategies, and operational trends in the airline industry.
